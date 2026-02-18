@@ -1,7 +1,7 @@
 🚀 Automated Data Visualization & Statistical Analysis Pipeline
 
 
-📌 Overview
+### 📌 Overview
 
 This repository contains three end-to-end data analysis projects completed as part of the Syntecxhub Data Analytics Internship Program.
 
@@ -10,7 +10,7 @@ The objective was to transform raw retail sales data into actionable insights th
 The projects simulate real-world analytics workflows followed in industry environments.
 
 
-🗂 Dataset
+### 🗂 Dataset
 
 Sample Superstore Dataset
 
