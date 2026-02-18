@@ -1,0 +1,2 @@
+Number of outliers detected: 1167
+Sales distribution appears right-skewed.

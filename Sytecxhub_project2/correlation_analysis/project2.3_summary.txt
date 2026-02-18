@@ -1,0 +1,6 @@
+Strongest positive correlations:
+Postal Code  Postal Code    1.0
+Discount     Discount       1.0
+Quantity     Quantity       1.0
+Sales        Sales          1.0
+dtype: float64
