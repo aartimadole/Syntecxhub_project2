@@ -33,13 +33,13 @@ Sub-Category
 Region
 
 
-📊 Project 2.1 — Time Series & Category Analysis
+### 📊 Project 2.1 — Time Series & Category Analysis
 
-🎯 Business Objective
+### 🎯 Business Objective
 
 Analyze sales trends over time and evaluate revenue contribution across product categories.
 
-🔍 Analysis Performed
+### 🔍 Analysis Performed
 
 Monthly aggregation of sales
 
@@ -49,7 +49,7 @@ Category-wise revenue comparison
 
 Proportional revenue share using pie chart
 
-📈 Why These Charts?
+### 📈 Why These Charts?
 
 Line chart → Best suited for time-series trend analysis
 
@@ -57,7 +57,7 @@ Bar chart → Effective for category comparison
 
 Pie chart → Displays percentage contribution clearly
 
-📦 Deliverables
+### 📦 Deliverables
 
 monthly_sales.png
 
@@ -68,12 +68,12 @@ category_share.png
 Exported summary report
 
 
-📈 Project 2.2 — Statistical Distribution & Outlier Detection
-🎯 Business Objective
+### 📈 Project 2.2 — Statistical Distribution & Outlier Detection
+### 🎯 Business Objective
 
 Understand the distribution behavior of sales and detect anomalies.
 
-🔍 Analysis Performed
+### 🔍 Analysis Performed
 
 Histogram to inspect data distribution
 
@@ -83,7 +83,7 @@ IQR-based outlier detection
 
 Skewness & spread analysis
 
-📊 Key Findings
+### 📊 Key Findings
 
 Sales data is right-skewed
 
@@ -91,7 +91,7 @@ Presence of extreme high-value outliers
 
 Regional variation in sales spread
 
-📦 Deliverables
+### 📦 Deliverables
 
 sales_histogram.png
 
@@ -100,12 +100,12 @@ sales_boxplot_region.png
 Outlier summary report
 
 
-🔥 Project 2.3 — Correlation & Relationship Analysis
-🎯 Business Objective
+### 🔥 Project 2.3 — Correlation & Relationship Analysis
+### 🎯 Business Objective
 
 Identify relationships between numeric business variables.
 
-🔍 Analysis Performed
+### 🔍 Analysis Performed
 
 Pearson correlation computation
 
@@ -117,20 +117,20 @@ Annotated correlation values
 
 Identification of strongest positive & negative relationships
 
-📊 Key Insights
+### 📊 Key Insights
 
 Strong positive correlation between Sales and Profit
 
 Negative correlation observed between Discount and Profit
 
-📦 Deliverables
+### 📦 Deliverables
 
 correlation_heatmap.png
 
 Correlation summary report
 
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 Python
 
@@ -141,7 +141,7 @@ NumPy
 Matplotlib
 
 
-🏗 Project Architecture
+### 🏗 Project Architecture
 Syntecxhub_Project_AartiMadole/
 │
 ├── project2.1_time_series.py
@@ -154,7 +154,7 @@ Syntecxhub_Project_AartiMadole/
 └── README.md
 
 
-💡 Skills Demonstrated
+### 💡 Skills Demonstrated
 
 ✔ Time-Series Aggregation
 ✔ Statistical Distribution Analysis
@@ -164,14 +164,14 @@ Syntecxhub_Project_AartiMadole/
 ✔ Business Insight Interpretation
 
 
-🚀 How to Execute
+### 🚀 How to Execute
 pip install pandas numpy matplotlib
 python project1_time_series.py
 python project2_distribution_analysis.py
 python project3_correlation_analysis.py
 
 
-📊 Professional Impact
+### 📊 Professional Impact
 
 This project demonstrates the ability to:
 
@@ -186,7 +186,7 @@ Present structured analytical findings
 Follow clean, reproducible coding practices
 
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 Aarti Sachin Madole
 Data Analytics Intern – Syntecxhub
