@@ -1,5 +1,6 @@
 🚀 Automated Data Visualization & Statistical Analysis Pipeline
 
+
 📌 Overview
 
 This repository contains three end-to-end data analysis projects completed as part of the Syntecxhub Data Analytics Internship Program.
@@ -7,6 +8,7 @@ This repository contains three end-to-end data analysis projects completed as pa
 The objective was to transform raw retail sales data into actionable insights through structured visualization, statistical analysis, and correlation modeling using Python.
 
 The projects simulate real-world analytics workflows followed in industry environments.
+
 
 🗂 Dataset
 
@@ -30,7 +32,9 @@ Sub-Category
 
 Region
 
+
 📊 Project 2.1 — Time Series & Category Analysis
+
 🎯 Business Objective
 
 Analyze sales trends over time and evaluate revenue contribution across product categories.
@@ -63,6 +67,7 @@ category_share.png
 
 Exported summary report
 
+
 📈 Project 2.2 — Statistical Distribution & Outlier Detection
 🎯 Business Objective
 
@@ -94,6 +99,7 @@ sales_boxplot_region.png
 
 Outlier summary report
 
+
 🔥 Project 2.3 — Correlation & Relationship Analysis
 🎯 Business Objective
 
@@ -123,6 +129,7 @@ correlation_heatmap.png
 
 Correlation summary report
 
+
 🛠 Tech Stack
 
 Python
@@ -132,6 +139,7 @@ Pandas
 NumPy
 
 Matplotlib
+
 
 🏗 Project Architecture
 Syntecxhub_Project_AartiMadole/
@@ -145,6 +153,7 @@ Syntecxhub_Project_AartiMadole/
 ├── Summary Reports (.txt)
 └── README.md
 
+
 💡 Skills Demonstrated
 
 ✔ Time-Series Aggregation
@@ -154,11 +163,13 @@ Syntecxhub_Project_AartiMadole/
 ✔ Data Visualization Best Practices
 ✔ Business Insight Interpretation
 
+
 🚀 How to Execute
 pip install pandas numpy matplotlib
 python project1_time_series.py
 python project2_distribution_analysis.py
 python project3_correlation_analysis.py
+
 
 📊 Professional Impact
 
@@ -173,6 +184,7 @@ Choose appropriate visualizations
 Present structured analytical findings
 
 Follow clean, reproducible coding practices
+
 
 👩‍💻 Author
 
